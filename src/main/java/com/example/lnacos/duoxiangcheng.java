@@ -15,7 +15,7 @@ public class duoxiangcheng {
                 duoxiangcheng.sleep();
             }
         });
-        test.start();
+//        test.start();
 //        test.join();
 //        System.out.println("结束");
     }
